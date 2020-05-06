@@ -4,9 +4,9 @@ As a potential employee of Broadnet we would like to be able to gauge your progr
 
 ##### What We Expect
 
-* Your todo app must have a PHP server-side component.
+* You may use the language of your choice.
 * The frontend portion of your app is entirely freeform.
-* If you use a database to store app data, it must be MySQL and you must provide a SQL script to create the schema as part of your pull request.
+* If you use MySQL or similar, you must provide a SQL script to create the schema as part of your pull request.
 * Your app must support creating, reading, updating, and deleting of todo list items.
 
 ##### Tips
